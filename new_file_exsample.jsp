@@ -7,7 +7,7 @@
 int i=Integer.parseInt(request.getParameter("t1"));
 int j=Integer.parseInt(request.getParameter("t2"));
 int k=0;
-int knn=7;
+int knn=722;
 String str=request.getParameter("a1");
 
 if(str.equals("add"))
